@@ -47,7 +47,7 @@
     background-color: rbg(0,0,0,0.3);
     border: 0;
     border-radius:  50px;
-    color:  #fff;
+    color:  #000;
     font-size: 14px;
     padding: 10px 15px;
     width: 100%;
@@ -97,9 +97,9 @@
 }
 
 .user-life li:not(:last-of-type){
-    border-bottom:  1px solid #eee;
+    border-bottom:  1px solid #000;
 }
 
 .user-list li.hide{
-    display: none;
+    display: none ;
 }
