@@ -23,6 +23,34 @@
 .btn:hover{
     transform: scale(0.95);
 }
+/* Bacgrounds & Color bt */
+
+.bg-primary,
+.btn-primary{
+
+    background-color: var(--primary-color);
+    color: floralwhite;
+}
+
+.bg-secondary,
+.btn-secondary{
+
+    background-color: var(--secondary-color);
+    color: floralwhite;
+}
+
+.bg-dark,
+.btn-dark{
+
+    background-color: var(--dark-color);
+    color: floralwhite;
+}
+.bg-light,
+.btn-light{
+
+    background-color: var(--light-color);
+    color: floralwhite;
+}
 
 .text-center {
     text-align: center;
